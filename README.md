@@ -6,3 +6,4 @@
 
 > [!WARNING]
 > README isn't finished - so don't expect it to be fully working rn
+> Also the site isn't made yet
